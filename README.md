@@ -10,10 +10,13 @@ Welcome to RuneForgeTools! I build games and practical utilities for gaming and 
 
 **Version:** v0.1.0 Beta · **Platform:** Windows · **Status:** Public beta
 
-Zelda Save Manager is a fan-made utility for *The Legend of Zelda: Ocarina of Time* and the Longshot randomizer.
+**One computer, multiple players. One player, multiple computers.**
+
+Zelda Save Manager is a fan-made Windows utility for *The Legend of Zelda: Ocarina of Time* and compatible Longshot setups. Originally created so kids sharing a computer could each keep their own game progress, it also supports accessing the same profiles and saves across multiple Windows PCs through a configured shared network folder.
 
 ### Highlights
-- Manage multiple player profiles, saves, and settings
+- Give each family member their own profile and saves on a shared computer
+- Access your profiles and saves from multiple computers using a shared network folder (not automatic cloud syncing)
 - Track items, equipment upgrades, and randomizer progression
 - Use a two-stage hint system for general areas and specific checks
 - Review progression guidance as you update collected items
