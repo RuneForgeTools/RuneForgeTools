@@ -12,7 +12,9 @@ Welcome to RuneForgeTools! I build games and practical utilities for gaming and 
 
 **One computer, multiple players. One player, multiple computers.**
 
-Zelda Save Manager is a fan-made Windows utility for *The Legend of Zelda: Ocarina of Time* and compatible Longshot setups. Originally created so kids sharing a computer could each keep their own game progress, it also supports accessing the same profiles and saves across multiple Windows PCs through a configured shared network folder.
+Zelda Save Manager is a fan-made Windows utility for *The Legend of Zelda: Ocarina of Time* and Squadala! multiplayer installations. Originally created so kids sharing a computer could each keep their own game progress, it also supports accessing the same profiles and saves across multiple Windows PCs through a configured shared network folder.
+
+**Compatibility:** Developed using Squadala!; standalone Longshot and Ship of Harkinian have not been independently verified.
 
 ### Highlights
 - Give each family member their own profile and saves on a shared computer
@@ -46,4 +48,4 @@ These tools are free to use. If you'd like to support continued development, vis
 
 ---
 
-*RuneForgeTools is an independent developer project. Zelda Save Manager is not affiliated with, sponsored by, or endorsed by Nintendo or the Longshot development team. No game ROMs or Longshot executables are included in the download.*
+*RuneForgeTools is an independent developer project. Zelda Save Manager is not affiliated with, sponsored by, or endorsed by Nintendo, Squadala!, or the Longshot development teams. No game ROMs or Squadala!/Longshot executables are included in the download.*
