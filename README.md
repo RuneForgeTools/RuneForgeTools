@@ -1,8 +1,8 @@
 # RuneForgeTools ⚔️
 
-**Free tools for gamers, makers, and creative projects.**
+**Free games, gaming utilities, and creative software.**
 
-Welcome to RuneForgeTools! I build practical utilities with a focus on making gaming and creative workflows easier. My first public project is **Zelda Save Manager**, a Windows application for managing player profiles, saves, and Longshot randomizer progress.
+Welcome to RuneForgeTools! I build games and practical utilities for gaming and creative projects. Explore my projects below.
 
 ## 🎮 Featured project: Zelda Save Manager
 
@@ -23,9 +23,17 @@ Zelda Save Manager is a fan-made utility for *The Legend of Zelda: Ocarina of Ti
 
 > **Beta software:** Features and compatibility may change. Please report issues so future releases can improve.
 
+## 🐾 Red Panda Den
+
+**Platform:** Web browser · **Type:** Cooperative survival card game
+
+Red Panda Den is a browser-based cooperative survival card game. Play directly in your browser—no Windows download required.
+
+**[🐼 Play Red Panda Den](https://red-panda-den-joel.peachybread65.chatgpt.site/)**
+
 ## 🛠️ What's next?
 
-I'm continuing to develop Zelda Save Manager and exploring ideas for future gaming and creative utilities. Follow this profile or watch the releases repository for updates.
+I'm continuing to develop Zelda Save Manager and Red Panda Den, alongside ideas for future games and creative utilities. Follow this profile or watch the releases repository for updates.
 
 ## ☕ Support development
 
